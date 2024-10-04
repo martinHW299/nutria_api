@@ -9,5 +9,4 @@ public class NutriaApiApplication {
     public static void main(String[] args) {
         SpringApplication.run(NutriaApiApplication.class, args);
     }
-
 }
